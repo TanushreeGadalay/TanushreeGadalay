@@ -1,5 +1,17 @@
 # 💫 About Me:
-Btech 2nd year student <br>In cse aiml
+## 👋 Hey there! I'm a CSE (AI & ML) Student
+
+🎓 B.Tech 2nd Year | Computer Science (AI & ML)  
+
+💻 I have experience with:
+C • C++ • Java • Python • JavaScript • HTML • CSS  
+
+🤖 Currently exploring:
+Artificial Intelligence • Machine Learning • Deep Learning  
+
+🌱 Passionate about building projects and continuously learning new technologies.
+
+⚡ Goal: To become a skilled AI/ML Engineer and build impactful solutions.
 
 
 ## 🌐 Socials:
